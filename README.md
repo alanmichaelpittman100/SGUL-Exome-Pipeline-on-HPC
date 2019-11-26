@@ -1,4 +1,4 @@
-# SGUL-Exome-Pipeline-on-HPC
+# SGUL-Exome-Pipeline-on-HPC-hg19
 
 Scripts for QC, Alignemnt, Variant Calling and Joint Genotyping of Exome Sequence Data. Following the GATK Best Practices guidelines.
 
